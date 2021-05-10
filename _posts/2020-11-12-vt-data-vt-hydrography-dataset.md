@@ -1,7 +1,7 @@
 ---
-title: VT Data - VT Hydrography Dataset - cartographic extract lines
-created: '2020-11-12T13:05:48.798231'
-modified: '2020-11-12T13:05:48.798242'
+title: VT Data - VT Hydrography Dataset - cartographic extract polygons
+created: '2020-11-12T13:05:45.587829'
+modified: '2020-11-12T13:05:45.587841'
 state: active
 type: dataset
 tags:
@@ -25,7 +25,7 @@ tags:
   - Watersheds
 groups: []
 csv_url: >-
-  https://geodata.vermont.gov/datasets/acda0d7626644d9ca4d2c00dbe0141e0_10.csv?outSR=%7B%22latestWkid%22%3A32145%2C%22wkid%22%3A32145%7D
+  https://geodata.vermont.gov/datasets/87b11946959a4961a0f594208ae7ccd3_11.csv?outSR=%7B%22latestWkid%22%3A32145%2C%22wkid%22%3A32145%7D
 json_url: ''
 layout: post
 
