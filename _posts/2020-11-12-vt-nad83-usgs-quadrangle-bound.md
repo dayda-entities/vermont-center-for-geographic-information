@@ -1,7 +1,7 @@
 ---
-title: VT NAD83 USGS Quadrangle Boundaries - corner points
-created: '2020-11-12T13:06:16.983834'
-modified: '2020-11-12T13:06:16.983845'
+title: VT NAD83 USGS Quadrangle Boundaries - polygons
+created: '2020-11-12T13:06:30.463496'
+modified: '2020-11-12T13:06:30.463505'
 state: active
 type: dataset
 tags:
@@ -20,7 +20,7 @@ tags:
   - Vcgi Open Data
 groups: []
 csv_url: >-
-  https://geodata.vermont.gov/datasets/e65078dc004b4c21ab522166d0c88f30_8.csv?outSR=%7B%22latestWkid%22%3A32145%2C%22wkid%22%3A32145%7D
+  https://geodata.vermont.gov/datasets/f75989de8f5f4661a3495cc2425982f2_7.csv?outSR=%7B%22latestWkid%22%3A32145%2C%22wkid%22%3A32145%7D
 json_url: ''
 layout: post
 
