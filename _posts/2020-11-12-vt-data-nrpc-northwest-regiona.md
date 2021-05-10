@@ -1,7 +1,9 @@
 ---
-title: VT Data - NRPC (Northwest Regional Planning Commission) Future Land Use
-created: '2020-11-12T13:07:03.291206'
-modified: '2020-11-12T13:07:03.291216'
+title: >-
+  VT Data - NRPC (Northwest Regional Planning Commission) Future Land Use -
+  Hamlets
+created: '2020-11-12T13:07:02.858361'
+modified: '2020-11-12T13:07:02.858368'
 state: active
 type: dataset
 tags:
@@ -10,74 +12,9 @@ tags:
   - Subthemelanduse
 groups: []
 csv_url: >-
-  https://geodata.vermont.gov/datasets/b3dd7fe2875148aab0902fd31b4a8b77_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  https://geodata.vermont.gov/datasets/d305d982b6864281b4eb8fe5ab33630b_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 json_url: ''
 layout: post
 
 ---
-<div style='text-align:Left;'><p></p><p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
-0in;background:white'><span style='font-size:13.5pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;
-mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
-Helvetica;color:black'>In the Northwest Regional Plan the Proposed Land Use map has
-the following planning areas:</span><span style='font-size:11.5pt;font-family:
-&quot;Calibri&quot;,&quot;sans-serif&quot;;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
-minor-latin;mso-bidi-font-family:Helvetica;color:#4C4C4C'></span></p>
-
-<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
-.5in;text-indent:-.25in;mso-list:l0 level1 lfo1;background:white;font-variant-ligatures: normal;
-font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-text-decoration-style: initial;text-decoration-color: initial;word-spacing:
-0px'><span style='font-size:13.5pt;font-family:Symbol;
-mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:black'><span style='mso-list:Ignore'>·<span style='font:7.0pt &quot;Times New Roman&quot;'>       
-</span></span></span><span style='font-size:13.5pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;
-mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;color:black'>Regional
-Growth Area</span></p>
-
-<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
-.5in;text-indent:-.25in;mso-list:l0 level1 lfo1;background:white'><span style='font-size:13.5pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-mso-bidi-font-family:Symbol;color:black'><span style='mso-list:Ignore'>·<span style='font:7.0pt &quot;Times New Roman&quot;'>       
-</span></span></span><span style='font-size:13.5pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;
-mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;color:black'>Sub-Regional
-Growth Area</span></p>
-
-<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
-.5in;text-indent:-.25in;mso-list:l0 level1 lfo1;background:white'><span style='font-size:13.5pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-mso-bidi-font-family:Symbol;color:black'><span style='mso-list:Ignore'>·<span style='font:7.0pt &quot;Times New Roman&quot;'>       
-</span></span></span><span style='font-size:13.5pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;
-mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;color:black'>Transitional
-Growth Area</span></p>
-
-<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
-.5in;text-indent:-.25in;mso-list:l0 level1 lfo1;background:white'><span style='font-size:13.5pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-mso-bidi-font-family:Symbol;color:black'><span style='mso-list:Ignore'>·<span style='font:7.0pt &quot;Times New Roman&quot;'>       
-</span></span></span><span style='font-size:13.5pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;
-mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;color:black'>Agricultural
-Resource Planning Area</span></p>
-
-<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
-.5in;text-indent:-.25in;mso-list:l0 level1 lfo1;background:white'><span style='font-size:13.5pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-mso-bidi-font-family:Symbol;color:black'><span style='mso-list:Ignore'>·<span style='font:7.0pt &quot;Times New Roman&quot;'>       
-</span></span></span><span style='font-size:13.5pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;
-mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;color:black'>Conservation
-&amp; Forest Resource Planning Area</span></p>
-
-<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
-.5in;text-indent:-.25in;mso-list:l0 level1 lfo1;background:white'><span style='font-size:13.5pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-mso-bidi-font-family:Symbol;color:black'><span style='mso-list:Ignore'>·<span style='font:7.0pt &quot;Times New Roman&quot;'>       
-</span></span></span><span style='font-size:13.5pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;
-mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;color:black'>Rural
-Planning Area in the Northwest Regional Plan. </span></p>
-
-<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
-0in;background:white'><span style='font-size:13.5pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;
-mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;color:black'> </span></p>
-
-<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
-0in;background:white'><span style='font-size:13.5pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;
-mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;color:black'>In
-addition, the NRPC <span style='background:white'> </span>has
-identified villages &amp; hamlets. These villages and hamlets are found in a
-separate file. This Regional Plan was adopted on 6/28/17. For more information:
-https://www.nrpcvt.com/regional-planning. </span><span style='font-size:
-11.5pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;mso-ascii-theme-font:minor-latin;
-mso-hansi-theme-font:minor-latin;color:#4C4C4C'></span></p><br /><p></p></div>
+<div style='text-align:Left;'><p style='margin: 12pt 0in; font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size: 17px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;'><span style='font-family: Calibri, sans-serif; font-size: 13.5pt; color: black;'>In the Northwest Regional Plan the Proposed Land Use map has the following planning areas:</span><span style='font-family: Calibri, sans-serif; font-size: 11.5pt;'></span></p><p style='margin: 12pt 0in 12pt 0.5in; font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size: 17px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; text-indent: -0.25in;'><span style='font-family: Symbol; font-size: 13.5pt; color: black;'>·<span style='font-family: &quot;Times New Roman&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal;'>        </span></span><span style='font-family: Calibri, sans-serif; font-size: 13.5pt; color: black;'>Regional Growth Area</span></p><p style='margin: 12pt 0in 12pt 0.5in; font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size: 17px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; text-indent: -0.25in;'><span style='font-family: Symbol; font-size: 13.5pt; color: black;'>·<span style='font-family: &quot;Times New Roman&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal;'>        </span></span><span style='font-family: Calibri, sans-serif; font-size: 13.5pt; color: black;'>Sub-Regional Growth Area</span></p><p style='margin: 12pt 0in 12pt 0.5in; font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size: 17px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; text-indent: -0.25in;'><span style='font-family: Symbol; font-size: 13.5pt; color: black;'>·<span style='font-family: &quot;Times New Roman&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal;'>        </span></span><span style='font-family: Calibri, sans-serif; font-size: 13.5pt; color: black;'>Transitional Growth Area</span></p><p style='margin: 12pt 0in 12pt 0.5in; font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size: 17px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; text-indent: -0.25in;'><span style='font-family: Symbol; font-size: 13.5pt; color: black;'>·<span style='font-family: &quot;Times New Roman&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal;'>        </span></span><span style='font-family: Calibri, sans-serif; font-size: 13.5pt; color: black;'>Agricultural Resource Planning Area</span></p><p style='margin: 12pt 0in 12pt 0.5in; font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size: 17px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; text-indent: -0.25in;'><span style='font-family: Symbol; font-size: 13.5pt; color: black;'>·<span style='font-family: &quot;Times New Roman&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal;'>        </span></span><span style='font-family: Calibri, sans-serif; font-size: 13.5pt; color: black;'>Conservation &amp; Forest Resource Planning Area</span></p><p style='margin: 12pt 0in 12pt 0.5in; font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size: 17px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; text-indent: -0.25in;'><span style='font-family: Symbol; font-size: 13.5pt; color: black;'>·<span style='font-family: &quot;Times New Roman&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal;'>        </span></span><span style='font-family: Calibri, sans-serif; font-size: 13.5pt; color: black;'>Rural Planning Area in the Northwest Regional Plan. </span></p><p style='margin: 12pt 0in; font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size: 17px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;'><span style='font-family: Calibri, sans-serif; font-size: 13.5pt; color: black;'> </span></p><p style='margin: 12pt 0in; font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size: 17px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;'><span style='font-family: Calibri, sans-serif; font-size: 13.5pt; color: black;'>In addition, the NRPC <span style='font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif !important; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;'> </span>has identified villages &amp; hamlets. This Regional Plan was adopted on 6/28/17. For more information: https://www.nrpcvt.com/regional-planning. </span></p><p><span></span></p></div>
