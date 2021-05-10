@@ -1,23 +1,25 @@
 ---
-title: VT Data - South Burlington Zoning
-created: '2020-11-12T13:04:49.454759'
-modified: '2020-11-12T13:04:49.454766'
+title: VT Data - South Burlington Zoning - Overlay Districts
+created: '2020-11-12T13:05:48.439461'
+modified: '2020-11-12T13:05:48.439472'
 state: active
 type: dataset
 tags:
   - Isothemeboundary
   - Nodeccrpc
+  - Overlay Districts
   - South Burlington
   - Subthemetown
   - Zoning
 groups: []
 csv_url: >-
-  https://geodata.vermont.gov/datasets/6c5d5a3fd4954226a7b13c171a5dd686_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  https://geodata.vermont.gov/datasets/57e7067fae4a4a928a8dfcc5236b820e_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 json_url: ''
 layout: post
 
 ---
-<p><span style='font-size:11.5pt; font-family:&quot;Helvetica&quot;,sans-serif; color:#4C4C4C; background:white;'>Zoning data corresponds to the City of South
-Burlington's </span><span style='font-size:11.5pt; font-family:&quot;Helvetica&quot;,sans-serif; color:#4C4C4C; background:white;'><span style='font-variant-ligatures:normal; font-variant-caps:normal; text-align:start; text-decoration-style:initial; text-decoration-color:initial; word-spacing:0px;'><a href='http://www.southburlingtonvt.gov/Planning/Regulations%20&amp;%20Plans/Current%20LDRs%20Effective%202019-10-28.pdf' target='_blank'>LandDevelopment Regulations </a>which can be found
-on the City's <a href='http://www.southburlingtonvt.gov/' target='_blank'>website</a>.</span></span></p><p><span style='font-size:11.5pt; font-family:&quot;Helvetica&quot;,sans-serif; color:#4C4C4C; background:white;'><span style='font-variant-ligatures:normal; font-variant-caps:normal; text-align:start; text-decoration-style:initial; text-decoration-color:initial; word-spacing:0px;'></span></span></p><p><span style='font-size:13.0pt; color:#4C4C4C;'>Overlay
-District(s) found under separate file.</span></p><p><span style='font-size:13.0pt; color:#4C4C4C;'>NOTE: South Burlington currently has Interim zoning regulations, the data which corresponds to the interim zoning can be found under a separate file.</span></p>
+<div style='text-align:Left;'><div><p><span>Overlay District data for 
+the City of South Burlington, VT. Data corresponds to South Burlington 
+Land Development Regulations effective on October 28, 2019. Refer to the 
+City of South Burlington's Planning and Zoning <a href='http://www.southburlingtonvt.gov/departments/planning_and_zoning/regulations_and_planning_documents.php' target='_blank'>webpage</a> for details on 
+this data.</span></p><p><span>Overlay Districts Included:</span></p><ul><li><span>Airport Approach Corridors</span></li><li><span>Floodplain</span></li><li><span>Interstate Highway</span></li><li><span>Scenic View Protection</span></li><li><span>Traffic</span></li><li><span>Transit</span></li><li><span>Urban Design</span></li></ul><div>NOTE: Form Based Code districts are incorporated into the Zoning Data for South Burlington.<br /></div></div></div>
