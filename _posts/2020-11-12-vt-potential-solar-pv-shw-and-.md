@@ -1,7 +1,7 @@
 ---
-title: VT Potential Solar PV SHW and Ground Mount Resources - location points
-created: '2020-11-12T13:06:15.866778'
-modified: '2020-11-12T13:06:15.866785'
+title: VT Potential Solar PV SHW and Ground Mount Resources - ground area polygons
+created: '2020-11-12T13:06:23.978493'
+modified: '2020-11-12T13:06:23.978504'
 state: active
 type: dataset
 tags:
@@ -18,7 +18,7 @@ tags:
   - Vcgi Open Data
 groups: []
 csv_url: >-
-  https://geodata.vermont.gov/datasets/4585f9bacf08414fbb4174565666ca68_10.csv?outSR=%7B%22latestWkid%22%3A32145%2C%22wkid%22%3A32145%7D
+  https://geodata.vermont.gov/datasets/811b5e71321f41f9ab46d6a0103975c7_9.csv?outSR=%7B%22latestWkid%22%3A32145%2C%22wkid%22%3A32145%7D
 json_url: ''
 layout: post
 
