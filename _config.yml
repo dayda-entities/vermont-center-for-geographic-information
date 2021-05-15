@@ -11,7 +11,8 @@ source_contact_type: general
 source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
-profile_pic: 'https://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png'
+profile_pic: >-
+  https://directory.dayda.org/assets/img/entities/vermont-center-for-geographic-information.png
 favicon: /assets/img/favicon.png
 url: 'http://vermont-center-for-geographic-information.dayda.org'
 encoding: utf-8
