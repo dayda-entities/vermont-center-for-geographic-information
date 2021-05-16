@@ -1,25 +1,20 @@
 ---
-title: VT Data - South Burlington Zoning - Overlay Districts
-created: '2020-11-12T13:05:48.439461'
-modified: '2020-11-12T13:05:48.439472'
+title: VT Data - South Burlington Zoning - Interim Zoning
+created: '2020-11-12T13:04:49.585630'
+modified: '2020-11-12T13:04:49.585639'
 state: active
 type: dataset
 tags:
   - Isothemeboundary
   - Nodeccrpc
-  - Overlay Districts
   - South Burlington
   - Subthemetown
   - Zoning
 groups: []
 csv_url: >-
-  https://geodata.vermont.gov/datasets/57e7067fae4a4a928a8dfcc5236b820e_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  https://geodata.vermont.gov/datasets/b39edfc7c7814eaebfe45f6579822d83_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 json_url: ''
 layout: post
 
 ---
-<div style='text-align:Left;'><div><p><span>Overlay District data for 
-the City of South Burlington, VT. Data corresponds to South Burlington 
-Land Development Regulations effective on October 28, 2019. Refer to the 
-City of South Burlington's Planning and Zoning <a href='http://www.southburlingtonvt.gov/departments/planning_and_zoning/regulations_and_planning_documents.php' target='_blank'>webpage</a> for details on 
-this data.</span></p><p><span>Overlay Districts Included:</span></p><ul><li><span>Airport Approach Corridors</span></li><li><span>Floodplain</span></li><li><span>Interstate Highway</span></li><li><span>Scenic View Protection</span></li><li><span>Traffic</span></li><li><span>Transit</span></li><li><span>Urban Design</span></li></ul><div>NOTE: Form Based Code districts are incorporated into the Zoning Data for South Burlington.<br /></div></div></div>
+<span style='color: rgb(141, 140, 140); font-family: &quot;Open Sans&quot;, sans-serif;'>On November 13, 2018, the City Council adopted an </span><a href='http://www.southburlingtonvt.gov/Planning/Regulations%20&amp;%20Plans/City%20Interim%20Bylaws%20approved%2018-11-13.pdf' style='box-sizing: border-box; color: rgb(15, 153, 238); transition: background 0.3s ease 0s; line-height: inherit; font-family: &quot;Open Sans&quot;, sans-serif; outline: 0px !important;' target='_blank'>Interim Zoning Bylaw</a><span style='color: rgb(141, 140, 140); font-family: &quot;Open Sans&quot;, sans-serif;'> and associated </span><a href='http://www.southburlingtonvt.gov/Planning/Regulations%20&amp;%20Plans/InterimZoning_Excluded%20Areas%20Map%2020181113.pdf' style='box-sizing: border-box; color: rgb(15, 153, 238); transition: background 0.3s ease 0s; line-height: inherit; font-family: &quot;Open Sans&quot;, sans-serif; outline: 0px !important;' target='_blank'>Map of Included and Excluded areas</a><span style='color: rgb(141, 140, 140); font-family: &quot;Open Sans&quot;, sans-serif;'>. To submit an application for development under the Bylaw, please complete an </span><a href='http://www.southburlingtonvt.gov/Planning/Forms/Interim%20Zoning_CU%20app%2011-2018%20fillable.pdf' style='box-sizing: border-box; color: rgb(15, 153, 238); transition: background 0.3s ease 0s; line-height: inherit; font-family: &quot;Open Sans&quot;, sans-serif; outline: 0px !important;' target='_blank'>application</a><span style='color: rgb(141, 140, 140); font-family: &quot;Open Sans&quot;, sans-serif;'> and deliver it to the Department of Planning &amp; Zoning.</span>
