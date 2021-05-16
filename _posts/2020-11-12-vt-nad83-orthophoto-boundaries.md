@@ -1,7 +1,7 @@
 ---
-title: VT NAD83 Orthophoto Boundaries - corner points
-created: '2020-11-12T13:06:02.990509'
-modified: '2020-11-12T13:06:02.990520'
+title: VT NAD83 Orthophoto Boundaries - polygons
+created: '2020-11-12T13:06:03.767515'
+modified: '2020-11-12T13:06:03.767525'
 state: active
 type: dataset
 tags:
@@ -20,7 +20,7 @@ tags:
   - Vcgi Open Data
 groups: []
 csv_url: >-
-  https://geodata.vermont.gov/datasets/577f08553457436b967fd5596f30b19e_13.csv?outSR=%7B%22latestWkid%22%3A32145%2C%22wkid%22%3A32145%7D
+  https://geodata.vermont.gov/datasets/fd8ea10a99954f11bdb85acba4d6db5c_14.csv?outSR=%7B%22latestWkid%22%3A32145%2C%22wkid%22%3A32145%7D
 json_url: ''
 layout: post
 
