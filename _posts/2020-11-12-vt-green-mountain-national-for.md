@@ -1,16 +1,14 @@
 ---
-title: VT Green Mountain National Forest - Long Trail and Appalachian Trail
-created: '2020-11-12T13:06:20.418145'
-modified: '2020-11-12T13:06:20.418164'
+title: VT Green Mountain National Forest - Trails
+created: '2020-11-12T13:06:30.178338'
+modified: '2020-11-12T13:06:30.178349'
 state: active
 type: dataset
 tags:
-  - Appalachian Trail
   - Datasettourismtrails_gmnftrails
   - Gmnf
   - Green Mountain National Forest
   - Isothemetourism
-  - Long Trail
   - Nodevcgi
   - Recreation
   - Subthemetrails
@@ -18,7 +16,7 @@ tags:
   - Vcgi Open Data
 groups: []
 csv_url: >-
-  https://geodata.vermont.gov/datasets/4c206846699947429df59c8cb552ab5c_11.csv?outSR=%7B%22latestWkid%22%3A32145%2C%22wkid%22%3A32145%7D
+  https://geodata.vermont.gov/datasets/d64e921c74db49f589e14b24d9bd779a_12.csv?outSR=%7B%22latestWkid%22%3A32145%2C%22wkid%22%3A32145%7D
 json_url: ''
 layout: post
 
