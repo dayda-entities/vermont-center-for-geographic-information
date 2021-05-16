@@ -1,7 +1,7 @@
 ---
-title: VT USGS Digital Line Graph Surface Waters - area polygons
-created: '2020-11-12T13:08:14.007961'
-modified: '2020-11-12T13:08:14.007972'
+title: VT USGS Digital Line Graph Surface Waters - boundary lines
+created: '2020-11-12T13:08:11.555496'
+modified: '2020-11-12T13:08:11.555507'
 state: active
 type: dataset
 tags:
@@ -18,7 +18,7 @@ tags:
   - Vcgi Open Data
 groups: []
 csv_url: >-
-  https://geodata.vermont.gov/datasets/b18ff61fedeb48cc8770030e0132d124_15.csv?outSR=%7B%22latestWkid%22%3A32145%2C%22wkid%22%3A32145%7D
+  https://geodata.vermont.gov/datasets/5a6d4c7e48494cff884d20134f5eac81_16.csv?outSR=%7B%22latestWkid%22%3A32145%2C%22wkid%22%3A32145%7D
 json_url: ''
 layout: post
 
