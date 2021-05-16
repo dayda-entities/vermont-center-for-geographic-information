@@ -1,7 +1,7 @@
 ---
-title: VT National Wetlands Inventory appended data - boundary lines
-created: '2020-11-12T13:06:27.446057'
-modified: '2020-11-12T13:06:27.446067'
+title: VT National Wetlands Inventory appended data - area polygons
+created: '2020-11-12T13:06:14.955802'
+modified: '2020-11-12T13:06:14.955810'
 state: active
 type: dataset
 tags:
@@ -17,7 +17,7 @@ tags:
   - Wetlands
 groups: []
 csv_url: >-
-  https://geodata.vermont.gov/datasets/d93fb8f5ba884d4fb9faca3209ae3c8b_6.csv?outSR=%7B%22latestWkid%22%3A32145%2C%22wkid%22%3A32145%7D
+  https://geodata.vermont.gov/datasets/cff12c48402f4c11b3d1bc7ec7082df2_5.csv?outSR=%7B%22latestWkid%22%3A32145%2C%22wkid%22%3A32145%7D
 json_url: ''
 layout: post
 
