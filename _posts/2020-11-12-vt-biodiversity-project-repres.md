@@ -1,16 +1,19 @@
 ---
-title: VT Biodiversity Project - Representative Landscapes boundary lines
-created: '2020-11-12T13:06:35.955520'
-modified: '2020-11-12T13:06:35.955530'
+title: VT Biodiversity Project - Representative Landscapes in Vermont polygons
+created: '2020-11-12T13:06:32.957418'
+modified: '2020-11-12T13:06:32.957425'
 state: active
 type: dataset
 tags:
   - Biodiversity
+  - Conservation Planning
   - Datasetgeologicother_replands
   - Geologic
   - Geology
+  - Geoscientificinformation
   - Isothemeecologic
   - Isothemegeologic
+  - Landscape Diversity
   - Nodevcgi
   - Representative Landscapes
   - Subthemeother
@@ -19,7 +22,7 @@ tags:
   - Vermont Biodiversity Project
 groups: []
 csv_url: >-
-  https://geodata.vermont.gov/datasets/44f5fafa8b9f4c90a7484bd80b852526_8.csv?outSR=%7B%22latestWkid%22%3A32145%2C%22wkid%22%3A32145%7D
+  https://geodata.vermont.gov/datasets/b180d00f51da48d781ac27b9ef22db40_9.csv?outSR=%7B%22latestWkid%22%3A32145%2C%22wkid%22%3A32145%7D
 json_url: ''
 layout: post
 
