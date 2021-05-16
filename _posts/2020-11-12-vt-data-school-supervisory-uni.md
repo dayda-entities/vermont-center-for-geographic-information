@@ -1,7 +1,7 @@
 ---
-title: VT Data - School Supervisory Unions FY2019
-created: '2020-11-12T13:07:33.822300'
-modified: '2020-11-12T13:07:33.822307'
+title: VT Data - School Supervisory Unions FY2018
+created: '2020-11-12T13:07:35.638113'
+modified: '2020-11-12T13:07:35.638120'
 state: active
 type: dataset
 tags:
@@ -16,7 +16,7 @@ tags:
   - Vcgi Open Data
 groups: []
 csv_url: >-
-  https://geodata.vermont.gov/datasets/b2a6d53511e04a7d89f27b424b2886ed_44.csv?outSR=%7B%22latestWkid%22%3A32145%2C%22wkid%22%3A32145%7D
+  https://geodata.vermont.gov/datasets/3af8dbb6f70e45c8bb7bed8716a89aec_45.csv?outSR=%7B%22latestWkid%22%3A32145%2C%22wkid%22%3A32145%7D
 json_url: ''
 layout: post
 
