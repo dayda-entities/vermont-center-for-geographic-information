@@ -1,7 +1,7 @@
 ---
-title: VT Data - School Districts FY2019
-created: '2020-11-12T13:07:35.772580'
-modified: '2020-11-12T13:07:35.772592'
+title: VT Data - School Districts FY2018
+created: '2020-11-12T13:07:33.112347'
+modified: '2020-11-12T13:07:33.112358'
 state: active
 type: dataset
 tags:
@@ -16,7 +16,7 @@ tags:
   - Vcgi Open Data
 groups: []
 csv_url: >-
-  https://geodata.vermont.gov/datasets/f5509d3d57c34cd9bf13a3d7dc39ee24_48.csv?outSR=%7B%22latestWkid%22%3A32145%2C%22wkid%22%3A32145%7D
+  https://geodata.vermont.gov/datasets/da88a41114c84f03b1a1e21d034fee8e_49.csv?outSR=%7B%22latestWkid%22%3A32145%2C%22wkid%22%3A32145%7D
 json_url: ''
 layout: post
 
