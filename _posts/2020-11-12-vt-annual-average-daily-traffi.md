@@ -1,11 +1,11 @@
 ---
-title: VT Annual Average Daily Traffic (AADT) - 2018
-created: '2020-11-12T13:09:02.098303'
-modified: '2020-11-12T13:09:02.098311'
+title: VT Annual Average Daily Traffic (AADT) - 2017
+created: '2020-11-12T13:09:12.358624'
+modified: '2020-11-12T13:09:12.358637'
 state: active
 type: dataset
 tags:
-  - '2018'
+  - '2017'
   - Aadt
   - Annual
   - Count
@@ -17,9 +17,9 @@ tags:
   - Vtrans
 groups: []
 csv_url: >-
-  https://geodata.vermont.gov/datasets/e2134df1edba4330b453ee723d66a086_58.csv?outSR=%7B%22latestWkid%22%3A32145%2C%22wkid%22%3A32145%7D
+  https://geodata.vermont.gov/datasets/c7a76584fed445f98740508a66422e32_56.csv?outSR=%7B%22latestWkid%22%3A32145%2C%22wkid%22%3A32145%7D
 json_url: ''
 layout: post
 
 ---
-<div style='font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 17px;'>Annual average daily traffic - 2018</div><div style='font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 17px;'>Stewards: Information Technology, Data Owner:  Traffic Research</div>
+<div style='font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 17px;'>Annual average daily traffic - 2017</div><div style='font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 17px;'>Stewards: Information Technology, Data Owner:  Traffic Research</div>
